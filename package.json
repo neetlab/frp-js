@@ -6,6 +6,10 @@
   "author": "Ryō Igarashi <n33t5hin@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^13.13.2",
+    "fp-ts": "^2.5.3",
+    "fp-ts-rxjs": "^0.6.9",
+    "io-ts": "^2.2.1",
     "rxjs": "^6.5.5",
     "typescript": "^3.8.3"
   }
